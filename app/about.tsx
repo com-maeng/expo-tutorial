@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Index() {
+export default function AboutScreen() {
   return (
     <View
       style={style.container}
     >
-      <Text style={style.text}>Hello Expo!</Text>
+      <Text style={style.text}>About...</Text>
     </View>
   );
 }
